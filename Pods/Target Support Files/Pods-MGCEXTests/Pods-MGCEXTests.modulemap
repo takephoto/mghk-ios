@@ -1,0 +1,6 @@
+framework module Pods_MGCEXTests {
+  umbrella header "Pods-MGCEXTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

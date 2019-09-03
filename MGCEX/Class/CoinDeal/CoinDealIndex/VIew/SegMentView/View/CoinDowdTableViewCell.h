@@ -1,0 +1,17 @@
+// MGC
+//
+// CoinDowdTableViewCell.h
+// MGCEX
+//
+// Created by MGC on 2018/6/7.
+// Copyright © 2018年 MGCion. All rights reserved.
+//
+// @ description <#描述#> 
+
+#import <UIKit/UIKit.h>
+#import "CoinDealPrivateModel.h"
+
+@interface CoinDowdTableViewCell : UITableViewCell
+@property (nonatomic, strong) CoinDealPrivateModel * model;
+
+@end
